@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '39046'
     url: http://www.gutenberg.org/2009/agents/39046
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37765#Some-Pioneers-and-Pilgrims-on-the-Prairies-of-DakotaOr-From-the-ox-team-to-the-aeroplane
 gutenberg_bookshelf: Travel
 gutenberg_issued: '2011-10-16'
 gutenberg_type: Text
